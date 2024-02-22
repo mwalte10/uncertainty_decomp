@@ -1,0 +1,12 @@
+var,var_name
+mat_hiv_births,Maternal prevalence
+mtct,Rates of MTCT
+ctx_effect,Cotrim effectiveness
+paed_art_num,Number on ART scalar
+ctx  ,Cotrim effectiveness
+matprev,Maternal prevalence
+art,Number on ART scalar
+paed_art_val,Number on ART scalar
+incidence_params,Incidence related parameters
+natural_history_params,Natural history related parameters
+treatment_params,Treatment related parameters

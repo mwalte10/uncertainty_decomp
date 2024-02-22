@@ -1,0 +1,17 @@
+# Package from CRAN
+cran::data.table
+cran::dplyr
+cran::tidyr
+cran::parallel
+cran::snow
+cran::devtools
+cran::ggplot2
+cran::DiceDesign
+cran::qs
+cran::assertthat
+cran::ggpubr
+cran::retry
+
+#url
+git::https://github.com/mrc-ide/leapfrog/@uncertainty_analysis_working
+
